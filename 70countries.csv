@@ -1,71 +1,71 @@
-﻿Country,Income Group,ID,Aggrgate_index_usage,Aggrgate_index_outreach,Inclusion_Index,Stability_Index
-Algeria,Upper middle income,231,60.51,51.98,47.65,47.11
-Argentina,High income,36,48.76,51.52,43.46,45.59
-Armenia,Upper middle income,67,61.72,57.07,51.98,45.16
-Bangladesh,Lower middle income,80,40.89,39.61,34.88,43.84
-Belgium,High income,32,51.86,66.40,49.94,51.64
-Bhutan,Lower middle income,81,37.88,43.63,33.68,58.44
-Bolivia,Lower middle income,38,50.99,41.82,42.08,41.09
-Bosnia and Herzegovina,Upper middle income,247,62.38,53.98,52.57,49.58
-Botswana,Upper middle income,115,51.30,50.41,43.47,51.23
-Brazil,Upper middle income,40,56.43,49.61,48.63,46.04
-Brunei Darussalam,High income,82,54.64,48.13,43.97,45.93
-Bulgaria,Upper middle income,254,66.89,71.98,61.46,46.63
-Burundi,Low income,116,20.01,4.82,13.82,49.59
-Cambodia,Lower middle income,89,42.59,41.25,36.23,47.80
-Cameroon,Lower middle income,233,47.74,54.91,42.18,49.70
-Central African Republic,Low income,234,50.80,50.58,43.45,48.27
-Chad,Low income,239,58.40,43.04,44.48,46.26
-Chile,High income,42,64.82,57.14,53.72,46.69
-Colombia,Upper middle income,138,55.87,47.64,46.40,40.87
-Costa Rica,Upper middle income,140,54.68,30.84,39.46,49.53
-Dominican Republic,Upper middle income,125,57.05,57.45,48.35,34.84
-Ecuador,Upper middle income,44,64.78,42.35,50.00,41.62
-Egypt,Lower middle income,8,39.29,66.82,43.54,49.83
-El Salvador,Lower middle income,143,38.90,40.61,34.88,46.01
-Equatorial Guinea,Upper middle income,240,35.90,46.44,34.55,35.26
-Estonia,High income,50,54.32,39.80,43.38,39.03
-Gabon,Upper middle income,154,28.76,26.69,25.83,44.73
-Georgia,Lower middle income,10,59.75,43.38,47.39,41.53
-Greece,High income,11,41.98,39.30,34.88,45.63
-Guatemala,Upper middle income,94,78.26,82.37,67.67,50.72
-Guinea,Low income,203,42.09,47.96,37.99,48.44
-Honduras,Lower middle income,146,61.26,56.46,51.59,53.45
-Hungary,High income,23,42.93,60.25,42.81,45.75
-India,Lower middle income,58,43.18,36.97,36.23,55.20
-Indonesia,Lower middle income,176,45.42,45.60,38.11,34.67
-Italy,High income,249,57.55,34.17,42.88,50.18
-Japan,High income,84,33.02,31.46,28.96,45.36
-Jordan,Upper middle income,225,54.15,36.16,41.22,50.77
-Kenya,Lower middle income,119,59.21,41.32,46.34,35.74
-Latvia,High income,53,47.82,46.60,40.92,48.24
-Lebanon,Upper middle income,13,44.95,50.81,44.68,46.72
-Lesotho,Lower middle income,135,52.13,52.48,41.09,45.55
-"Macedonia, FYR",Upper middle income,250,63.35,44.15,47.43,40.13
-Madagascar,Low income,163,52.46,57.01,37.43,49.53
-Malaysia,Upper middle income,91,67.41,46.34,54.15,37.11
-Maldives,Upper middle income,59,55.02,65.96,38.64,46.58
-Malta,High income,251,35.73,55.73,43.12,41.38
-Mauritania,Lower middle income,209,54.42,43.02,47.26,50.92
-Mauritius,Upper middle income,165,56.44,50.54,50.94,50.62
-Moldova,Lower middle income,55,54.13,51.08,47.71,55.52
-Namibia,Upper middle income,155,44.95,48.45,41.20,46.20
-Netherlands,High income,199,40.12,35.54,44.97,45.77
-Pakistan,Lower middle income,78,41.78,40.99,38.41,53.62
-Panama,High income,149,43.33,45.32,45.01,39.21
-Peru,Upper middle income,47,52.17,51.86,40.00,42.98
-Poland,High income,24,44.76,57.19,35.47,46.85
-Portugal,High income,198,48.18,31.00,46.39,51.27
-Rwanda,Low income,121,54.57,53.53,42.32,47.32
-Samoa,Upper middle income,29,53.86,43.55,38.80,53.89
-Saudi Arabia,High income,73,53.01,43.24,43.36,47.63
-Seychelles,High income,170,51.66,46.52,39.78,51.91
-South Africa,Upper middle income,141,55.46,52.53,46.28,52.03
-Spain,High income,200,50.37,52.77,47.87,41.97
-Swaziland,Lower middle income,144,58.09,49.59,43.43,49.46
-Tanzania,Low income,122,54.22,41.75,41.69,45.16
-Thailand,Upper middle income,95,73.96,70.06,51.48,45.88
-Trinidad and Tobago,High income,12,61.05,56.96,42.81,52.27
-Uganda,Low income,222,47.73,48.78,43.04,41.26
-Vanuatu,Lower middle income,193,59.30,30.54,43.43,56.73
-Zambia,Lower middle income,123,42.95,40.92,47.05,46.86
+Country	Income Group	ID	Aggrgate_index_usage	Aggrgate_index_outreach	Inclusion_Index	Stability_Index	CODE
+Algeria	Upper middle income	231	60.51	51.98	47.65	47.11	DZA
+Argentina	High income	36	48.76	51.52	43.46	45.59	ARG
+Armenia	Upper middle income	67	61.72	57.07	51.98	45.16	ARM
+Bangladesh	Lower middle income	80	40.89	39.61	34.88	43.84	BGD
+Belgium	High income	32	51.86	66.4	49.94	51.64	BEL
+Bhutan	Lower middle income	81	37.88	43.63	33.68	58.44	BTN
+Bolivia	Lower middle income	38	50.99	41.82	42.08	41.09	BOL
+Bosnia and Herzegovina	Upper middle income	247	62.38	53.98	52.57	49.58	BIH
+Botswana	Upper middle income	115	51.3	50.41	43.47	51.23	BWA
+Brazil	Upper middle income	40	56.43	49.61	48.63	46.04	BRA
+Brunei Darussalam	High income	82	54.64	48.13	43.97	45.93	BRN
+Bulgaria	Upper middle income	254	66.89	71.98	61.46	46.63	BGR
+Burundi	Low income	116	20.01	4.82	13.82	49.59	BDI
+Cambodia	Lower middle income	89	42.59	41.25	36.23	47.8	KHM
+Cameroon	Lower middle income	233	47.74	54.91	42.18	49.7	CMR
+Central African Republic	Low income	234	50.8	50.58	43.45	48.27	CAF
+Chad	Low income	239	58.4	43.04	44.48	46.26	TCD
+Chile	High income	42	64.82	57.14	53.72	46.69	CHL
+Colombia	Upper middle income	138	55.87	47.64	46.4	40.87	COL
+Costa Rica	Upper middle income	140	54.68	30.84	39.46	49.53	CRI
+Dominican Republic	Upper middle income	125	57.05	57.45	48.35	34.84	DOM
+Ecuador	Upper middle income	44	64.78	42.35	50	41.62	ECU
+Egypt	Lower middle income	8	39.29	66.82	43.54	49.83	EGY
+El Salvador	Lower middle income	143	38.9	40.61	34.88	46.01	SLV
+Equatorial Guinea	Upper middle income	240	35.9	46.44	34.55	35.26	GNQ
+Estonia	High income	50	54.32	39.8	43.38	39.03	EST
+Gabon	Upper middle income	154	28.76	26.69	25.83	44.73	GAB
+Georgia	Lower middle income	10	59.75	43.38	47.39	41.53	GEO
+Greece	High income	11	41.98	39.3	34.88	45.63	GRC
+Guatemala	Upper middle income	94	78.26	82.37	67.67	50.72	GTM
+Guinea	Low income	203	42.09	47.96	37.99	48.44	GIN
+Honduras	Lower middle income	146	61.26	56.46	51.59	53.45	HND
+Hungary	High income	23	42.93	60.25	42.81	45.75	HUN
+India	Lower middle income	58	43.18	36.97	36.23	55.2	IND
+Indonesia	Lower middle income	176	45.42	45.6	38.11	34.67	IDN
+Italy	High income	249	57.55	34.17	42.88	50.18	ITA
+Japan	High income	84	33.02	31.46	28.96	45.36	JPN
+Jordan	Upper middle income	225	54.15	36.16	41.22	50.77	JOR
+Kenya	Lower middle income	119	59.21	41.32	46.34	35.74	KEN
+Latvia	High income	53	47.82	46.6	40.92	48.24	LVA
+Lebanon	Upper middle income	13	44.95	50.81	44.68	46.72	LBN
+Lesotho	Lower middle income	135	52.13	52.48	41.09	45.55	LSO
+"Macedonia, FYR"	Upper middle income	250	63.35	44.15	47.43	40.13	MKD
+Madagascar	Low income	163	52.46	57.01	37.43	49.53	MDG
+Malaysia	Upper middle income	91	67.41	46.34	54.15	37.11	MYS
+Maldives	Upper middle income	59	55.02	65.96	38.64	46.58	MDV
+Malta	High income	251	35.73	55.73	43.12	41.38	MLT
+Mauritania	Lower middle income	209	54.42	43.02	47.26	50.92	MRT
+Mauritius	Upper middle income	165	56.44	50.54	50.94	50.62	MUS
+Moldova	Lower middle income	55	54.13	51.08	47.71	55.52	MDA
+Namibia	Upper middle income	155	44.95	48.45	41.2	46.2	NAM
+Netherlands	High income	199	40.12	35.54	44.97	45.77	NLD
+Pakistan	Lower middle income	78	41.78	40.99	38.41	53.62	PAK
+Panama	High income	149	43.33	45.32	45.01	39.21	PAN
+Peru	Upper middle income	47	52.17	51.86	40	42.98	PER
+Poland	High income	24	44.76	57.19	35.47	46.85	POL
+Portugal	High income	198	48.18	31	46.39	51.27	PRT
+Rwanda	Low income	121	54.57	53.53	42.32	47.32	RWA
+Samoa	Upper middle income	29	53.86	43.55	38.8	53.89	WSM
+Saudi Arabia	High income	73	53.01	43.24	43.36	47.63	SAU
+Seychelles	High income	170	51.66	46.52	39.78	51.91	SYC
+South Africa	Upper middle income	141	55.46	52.53	46.28	52.03	ZAF
+Spain	High income	200	50.37	52.77	47.87	41.97	ESP
+Swaziland	Lower middle income	144	58.09	49.59	43.43	49.46	SWZ
+Tanzania	Low income	122	54.22	41.75	41.69	45.16	TZA
+Thailand	Upper middle income	95	73.96	70.06	51.48	45.88	THA
+Trinidad and Tobago	High income	12	61.05	56.96	42.81	52.27	TTO
+Uganda	Low income	222	47.73	48.78	43.04	41.26	UGA
+Vanuatu	Lower middle income	193	59.3	30.54	43.43	56.73	VUT
+Zambia	Lower middle income	123	42.95	40.92	47.05	46.86	ZMB
